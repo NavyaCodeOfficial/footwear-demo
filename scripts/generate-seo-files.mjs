@@ -8,7 +8,7 @@ import { createServer } from 'vite';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
-const strict = process.env.STRICT_SEO === '1' || process.env.VERCEL_ENV === 'production';
+const strict = process.env.STRICT_SEO === '1';
 
 if (!existsSync(dist)) {
   console.error('dist/ not found. Run the build first.');
