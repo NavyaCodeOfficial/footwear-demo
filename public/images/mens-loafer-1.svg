@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of mens loafer">
+  <rect width="840" height="700" fill="#F8F7F4"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g>
+    <path d="M140 482 C140 430 180 405 240 400 L400 392 C440 390 470 365 490 342 C540 380 600 405 650 420 C690 432 700 455 700 482 L700 500 L140 500 Z" fill="#7A5A3C"/>
+    <rect x="130" y="498" width="580" height="26" rx="13" fill="#3A332C"/>
+    <rect x="360" y="410" width="90" height="22" rx="11" fill="#B89B72"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

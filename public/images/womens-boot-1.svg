@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of womens boot">
+  <rect width="840" height="700" fill="#F8F7F4"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g>
+    <path d="M250 230 L440 230 L450 380 C470 400 560 410 650 425 C690 432 700 455 700 482 L700 500 L170 500 L200 340 Z" fill="#3A332C"/>
+    <rect x="160" y="498" width="550" height="34" rx="17" fill="#2A2622"/>
+    <rect x="250" y="220" width="190" height="24" rx="8" fill="#FFFFFF" opacity=".25"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

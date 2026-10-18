@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of sports runner">
+  <rect width="840" height="700" fill="#F8F7F4"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g>
+    <path d="M150 470 C150 400 190 360 250 350 L330 345 C360 345 380 330 400 305 L440 300 C470 340 520 370 600 385 C660 395 680 420 680 470 L680 500 L150 500 Z" fill="#4A5A63"/>
+    <rect x="140" y="498" width="550" height="34" rx="17" fill="#FFFFFF" stroke="#D8D3CA"/>
+    <path d="M330 345 L400 390 M360 340 L430 385 M390 330 L460 375" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity=".85"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

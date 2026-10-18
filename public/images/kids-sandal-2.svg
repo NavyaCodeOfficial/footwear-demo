@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of kids sandal">
+  <rect width="840" height="700" fill="#EEEAE3"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g transform="scale(-1 1) translate(-840 0)">
+    <rect x="130" y="470" width="580" height="46" rx="23" fill="#EDE7DB" stroke="#CFC7B8"/>
+    <path d="M250 470 C260 400 330 380 400 392 C470 404 520 430 560 470" fill="none" stroke="#9DB4C0" stroke-width="30" stroke-linecap="round"/>
+    <path d="M330 470 C340 430 400 420 440 470" fill="none" stroke="#9DB4C0" stroke-width="22" stroke-linecap="round" opacity=".85"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

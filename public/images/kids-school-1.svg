@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of kids school">
+  <rect width="840" height="700" fill="#F8F7F4"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g>
+    <path d="M140 480 C140 420 175 392 235 386 L360 376 C400 372 420 350 440 330 L470 332 C500 380 560 410 640 420 C690 428 700 455 700 480 L700 500 L140 500 Z" fill="#1F1D1B"/>
+    <rect x="130" y="498" width="580" height="26" rx="13" fill="#2A2622"/>
+    <path d="M360 376 C390 380 420 392 450 385" stroke="#FFFFFF" stroke-width="5" opacity=".5" fill="none"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

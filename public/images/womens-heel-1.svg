@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 840 700" role="img" aria-label="Demo illustration of womens heel">
+  <rect width="840" height="700" fill="#F8F7F4"/>
+  <ellipse cx="420" cy="540" rx="300" ry="26" fill="#000" opacity=".08"/>
+  <g>
+    <path d="M170 470 C220 440 300 420 380 380 C430 355 470 360 520 395 C580 430 650 440 690 470 L660 492 L190 492 Z" fill="#8A6E4B"/>
+    <path d="M190 492 L215 600 L238 600 L250 492 Z" fill="#2A2622"/>
+    <rect x="450" y="488" width="230" height="16" rx="8" fill="#2A2622"/></g>
+  <text x="420" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#686868" letter-spacing="3">DEMO IMAGE</text>
+</svg>

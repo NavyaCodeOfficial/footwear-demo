@@ -1,0 +1,4 @@
+# Development default. The production build regenerates this file and adds the Sitemap line
+# once siteUrl is configured (see scripts/generate-seo-files.mjs).
+User-agent: *
+Allow: /
